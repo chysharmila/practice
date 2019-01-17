@@ -1,0 +1,16 @@
+1.dai & exait are uese to exit or terminate statement . where using dai we can give message.
+2.new-->create object.
+3.comment
+   -single line comment//
+   -multiple line comment/* */
+   -one line shell-style comment# 
+
+4.quets
+   $ajkdenf = "djfhsffj i'm 'Sara";
+5.local
+  -->only those function can access where local variable can decleare.
+  -->we can simply declear
+6.Global
+   -->All function can execute globaly
+   -->declare using Global keyword
+   even/odd ,prime number,
